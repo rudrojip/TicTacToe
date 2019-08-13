@@ -1,5 +1,4 @@
 #Tic Tac Toc 1 Human VS Computer
-#Tic Tac Toc 2 Human VS Human
 import random
 N=5
 pos=[i for i in range(N**2)]
